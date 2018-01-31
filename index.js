@@ -4,6 +4,10 @@ function scuberGreetingForFeet() {
   
 }
 
+function ternaryCheckCity() {
+  
+}
+
 // var ride_distance;
 
 // function scuberGreetingForFeet(ride_distance) {
