@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-var ride_distance
+var ride_distance;
 
 function scuberGreetingForFeet(ride_distance) {
   if (ride_distance <= 400) {
